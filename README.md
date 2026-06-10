@@ -1,44 +1,55 @@
-# Hi, I'm Stefania Licciardi
+<p align="center">
+  <img src="assets/github_profile.jpg" width="140" alt="Stefania Licciardi profile photo">
+</p>
 
-**Analytics Engineer | Data Analyst | ETL Developer**
+<h1 align="center">Stefania Licciardi</h1>
 
-I am an analytics and business professional based in Berlin, with 10+ years of experience in e-commerce and retail. My background combines commercial decision-making, assortment planning, merchandising, supplier negotiation, and performance analysis with hands-on technical training in analytics engineering, ETL development, SQL, Python, Snowflake, dbt, and business intelligence.
+<p align="center">
+  <strong>Analytics Engineer | Data Analyst | ETL Developer</strong>
+</p>
 
-I enjoy turning business questions into structured data solutions, clear reporting, and actionable insights.
+<p align="center">
+  Berlin-based analytics professional with a business background in fashion e-commerce and retail.
+</p>
 
-## What I Work With
+<p align="center">
+  <a href="https://www.linkedin.com/in/stefanialicciardi">LinkedIn</a> |
+  <a href="https://github.com/stefanialicciardi-byte">GitHub</a> |
+  <a href="https://paris-real-estate-analytics.streamlit.app/">Featured App</a>
+</p>
 
-**Data & Analytics**
+---
 
-`SQL` `Python` `Snowflake` `dbt` `ETL` `Data Modeling` `Data Warehousing` `Business Intelligence`
+## About Me
 
-**Visualization & Apps**
+I combine 10+ years of experience in e-commerce and retail with hands-on training in analytics engineering, ETL development, SQL, Python, Snowflake, dbt, and business intelligence.
 
-`Power BI` `Streamlit` `Data Visualization` `Geospatial Analysis` `APIs`
+My background in buying, merchandising, assortment planning, supplier negotiation, and KPI analysis helps me approach data work with a strong understanding of business context. I enjoy translating commercial questions into clean data models, practical dashboards, and actionable insights.
 
-**Business Domain**
+I am especially interested in analytics engineering, business intelligence, retail analytics, and data products that help teams make better decisions.
 
-`E-commerce` `Retail Analytics` `Buying` `Merchandising` `Assortment Planning` `Supplier Negotiation` `KPI Analysis`
+## Core Skills
+
+| Area | Tools & Skills |
+| --- | --- |
+| Data & Analytics | SQL, Python, Snowflake, dbt, ETL, data modeling, data warehousing |
+| BI & Visualization | Power BI, Streamlit, dashboarding, data visualization, KPI reporting |
+| Data Workflows | Data cleaning, API integration, transformation logic, geospatial analysis |
+| Business Domain | E-commerce, retail analytics, buying, merchandising, assortment planning |
 
 ## Featured Projects
 
-### Paris Real Estate Analytics Platform
+| Project | What It Does | Tech |
+| --- | --- | --- |
+| [Paris Real Estate Analytics Platform](https://github.com/stefanialicciardi-byte/paris-real-estate-ae) | End-to-end analytics solution for exploring Paris real estate transactions, including ETL pipelines, analytical data models, public dataset integration, and a Streamlit app. | SQL, Python, Snowflake, ETL, Streamlit |
+| [Paris Cycling Traffic Analytics Dashboard](https://github.com/stefanialicciardi-byte/paris-cycling-dashboard) | Dashboard for analyzing cycling traffic patterns in Paris by combining traffic, weather, calendar, and geospatial datasets. | SQL, Python, Power BI, Streamlit |
 
-End-to-end analytics project for exploring real estate transactions in Paris. I built ETL pipelines, modeled analytical datasets, integrated public data sources, and developed an interactive Streamlit application.
+## Current Focus
 
-**Technologies:** SQL, Python, Snowflake, ETL, Data Modeling, Streamlit
-
-- Live app: [paris-real-estate-analytics.streamlit.app](https://paris-real-estate-analytics.streamlit.app/)
-- GitHub: [paris-real-estate-ae](https://github.com/stefanialicciardi-byte/paris-real-estate-ae)
-
-### Paris Cycling Traffic Analytics Dashboard
-
-Analytics dashboard for exploring cycling traffic patterns in Paris by combining traffic, weather, and calendar datasets. The project includes data cleaning, transformation, visualization, and geospatial analysis.
-
-**Technologies:** SQL, Python, Power BI, Streamlit, Data Visualization
-
-- Live app: [paris-cycling-dashboard.streamlit.app](https://paris-cycling-dashboard-sw82zmv87tc5sxqluddjrj.streamlit.app/)
-- GitHub: [paris-cycling-dashboard](https://github.com/stefanialicciardi-byte/paris-cycling-dashboard)
+- Building analytics engineering projects with SQL, Python, Snowflake, and dbt
+- Designing clear dashboards and reporting workflows for business users
+- Strengthening my portfolio with real-world data products
+- Applying my e-commerce and retail background to data and BI roles
 
 ## Education & Training
 
@@ -51,11 +62,13 @@ Aalborg University Business School
 **BSc Business Administration**  
 Università degli Studi della Basilicata
 
-## Career Background
+## Professional Background
 
-Before moving into analytics engineering and data, I built a career in fashion e-commerce and retail at companies including BestSecret, brands4friends, and Zalando. This gives me a strong business foundation and helps me approach data work with a clear understanding of commercial decision-making and stakeholder needs.
+Before moving deeper into analytics engineering and data, I worked in fashion e-commerce and retail at companies including BestSecret, brands4friends, and Zalando. This experience gave me a practical understanding of commercial decision-making, stakeholder communication, and the business questions behind the data.
 
 ## Let's Connect
 
-- LinkedIn: [stefanialicciardi](https://www.linkedin.com/in/stefanialicciardi)
-- GitHub: [stefanialicciardi-byte](https://github.com/stefanialicciardi-byte)
+I am open to opportunities in analytics engineering, data analysis, ETL development, and business intelligence.
+
+- LinkedIn: [linkedin.com/in/stefanialicciardi](https://www.linkedin.com/in/stefanialicciardi)
+- GitHub: [github.com/stefanialicciardi-byte](https://github.com/stefanialicciardi-byte)
