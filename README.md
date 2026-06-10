@@ -1,15 +1,14 @@
-<p align="center">
-  <img src="assets/github_profile.jpg" width="140" alt="Stefania Licciardi profile photo">
-</p>
+<img src="assets/banner.svg" alt="Stefania Licciardi - Analytics Engineer, Data Analyst and ETL Developer">
 
 <h1 align="center">Stefania Licciardi</h1>
 
 <p align="center">
-  <strong>Analytics Engineer | Data Analyst | ETL Developer</strong>
+  <strong>Analytics Engineer | Data Analyst | ETL Developer</strong><br>
+  Berlin-based analytics professional with a business background in fashion e-commerce and retail.
 </p>
 
 <p align="center">
-  Berlin-based analytics professional with a business background in fashion e-commerce and retail.
+  <img src="assets/github_profile.jpg" width="120" alt="Stefania Licciardi profile photo">
 </p>
 
 <p align="center">
@@ -30,6 +29,15 @@ I am especially interested in analytics engineering, business intelligence, reta
 
 ## Core Skills
 
+<p>
+  <img src="https://img.shields.io/badge/SQL-175CD3?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Python-027A48?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Snowflake-2E90FA?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake">
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt">
+  <img src="https://img.shields.io/badge/Power%20BI-FDB022?style=for-the-badge&logo=powerbi&logoColor=101828" alt="Power BI">
+  <img src="https://img.shields.io/badge/Streamlit-F04438?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+</p>
+
 | Area | Tools & Skills |
 | --- | --- |
 | Data & Analytics | SQL, Python, Snowflake, dbt, ETL, data modeling, data warehousing |
@@ -39,10 +47,26 @@ I am especially interested in analytics engineering, business intelligence, reta
 
 ## Featured Projects
 
-| Project | What It Does | Tech |
-| --- | --- | --- |
-| [Paris Real Estate Analytics Platform](https://github.com/stefanialicciardi-byte/paris-real-estate-ae) | End-to-end analytics solution for exploring Paris real estate transactions, including ETL pipelines, analytical data models, public dataset integration, and a Streamlit app. | SQL, Python, Snowflake, ETL, Streamlit |
-| [Paris Cycling Traffic Analytics Dashboard](https://github.com/stefanialicciardi-byte/paris-cycling-dashboard) | Dashboard for analyzing cycling traffic patterns in Paris by combining traffic, weather, calendar, and geospatial datasets. | SQL, Python, Power BI, Streamlit |
+<a href="https://github.com/stefanialicciardi-byte/paris-real-estate-ae">
+  <img src="assets/project_real_estate.svg" width="48%" alt="Paris Real Estate Analytics Platform">
+</a>
+<a href="https://github.com/stefanialicciardi-byte/paris-cycling-dashboard">
+  <img src="assets/project_cycling.svg" width="48%" alt="Paris Cycling Traffic Analytics Dashboard">
+</a>
+
+### Paris Real Estate Analytics Platform
+
+End-to-end analytics solution for exploring Paris real estate transactions, including ETL pipelines, analytical data models, public dataset integration, and a Streamlit app.
+
+**Tech:** SQL, Python, Snowflake, ETL, Streamlit  
+**Links:** [Live App](https://paris-real-estate-analytics.streamlit.app/) | [Repository](https://github.com/stefanialicciardi-byte/paris-real-estate-ae)
+
+### Paris Cycling Traffic Analytics Dashboard
+
+Dashboard for analyzing cycling traffic patterns in Paris by combining traffic, weather, calendar, and geospatial datasets.
+
+**Tech:** SQL, Python, Power BI, Streamlit  
+**Links:** [Live App](https://paris-cycling-dashboard-sw82zmv87tc5sxqluddjrj.streamlit.app/) | [Repository](https://github.com/stefanialicciardi-byte/paris-cycling-dashboard)
 
 ## Current Focus
 

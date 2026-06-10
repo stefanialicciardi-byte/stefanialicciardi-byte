@@ -1,0 +1,26 @@
+<svg width="560" height="300" viewBox="0 0 560 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="560" height="300" rx="24" fill="#F8FAFC"/>
+  <rect x="24" y="24" width="512" height="252" rx="18" fill="white" stroke="#D0D5DD"/>
+  <rect x="24" y="24" width="512" height="76" rx="18" fill="#047857"/>
+  <text x="48" y="70" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">Paris Cycling Dashboard</text>
+  <text x="48" y="122" fill="#344054" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">Traffic patterns • Weather • Geospatial analysis</text>
+  <g transform="translate(48 148)">
+    <rect x="0" y="48" width="460" height="8" rx="4" fill="#D0D5DD"/>
+    <circle cx="110" cy="52" r="32" fill="#D1FADF"/>
+    <circle cx="250" cy="52" r="32" fill="#D1FADF"/>
+    <path d="M110 52L154 18H204L250 52M154 18L178 52H250M178 52H110M204 18L226 18" stroke="#039855" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="332" y="12" width="116" height="16" rx="8" fill="#FEDF89"/>
+    <rect x="332" y="46" width="88" height="16" rx="8" fill="#6CE9A6"/>
+    <rect x="332" y="80" width="134" height="16" rx="8" fill="#7CD4FD"/>
+  </g>
+  <g transform="translate(48 258)">
+    <rect width="78" height="22" rx="11" fill="#DBEAFE"/>
+    <text x="17" y="16" fill="#175CD3" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">SQL</text>
+    <rect x="88" width="92" height="22" rx="11" fill="#ECFDF3"/>
+    <text x="107" y="16" fill="#027A48" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">Python</text>
+    <rect x="190" width="94" height="22" rx="11" fill="#FEE4E2"/>
+    <text x="206" y="16" fill="#B42318" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">Power BI</text>
+    <rect x="294" width="104" height="22" rx="11" fill="#FFF6ED"/>
+    <text x="312" y="16" fill="#B93815" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">Streamlit</text>
+  </g>
+</svg>
