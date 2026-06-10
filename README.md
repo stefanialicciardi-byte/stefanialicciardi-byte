@@ -66,6 +66,15 @@ Università degli Studi della Basilicata
 
 Before moving deeper into analytics engineering and data, I worked in fashion e-commerce and retail at companies including BestSecret, brands4friends, and Zalando. This experience gave me a practical understanding of commercial decision-making, stakeholder communication, and the business questions behind the data.
 
+| Role | Company | Focus |
+| --- | --- | --- |
+| Buyer | BestSecret Group | Womenswear buying, supplier negotiation, assortment planning, profitability, and cross-functional collaboration |
+| Buyer | brands4friends | Category ownership, supplier sourcing, campaign planning, purchasing KPI analysis, and team coordination |
+| Junior Buyer | Zalando | Brand portfolio management, marketplace and wholesale partnerships, in-season management, and trend analysis |
+| Merchandise Planning Assistant | Zalando | Stock monitoring, delivery tracking, reorders, weekly trade analysis, and operational issue resolution |
+
+This commercial background helps me bridge the gap between business teams and technical data work: I understand both the questions stakeholders ask and the data structures needed to answer them well.
+
 ## Let's Connect
 
 I am open to opportunities in analytics engineering, data analysis, ETL development, and business intelligence.
