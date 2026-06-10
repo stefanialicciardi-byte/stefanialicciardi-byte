@@ -47,7 +47,7 @@ I am especially interested in analytics engineering, business intelligence, reta
 
 ## Featured Projects
 
-<a href="https://github.com/stefanialicciardi-byte/paris-real-estate-ae">
+<a href="https://github.com/stefanialicciardi-byte/paris-real-estate-analytics">
   <img src="assets/project_real_estate.svg" width="48%" alt="Paris Real Estate Analytics Platform">
 </a>
 <a href="https://github.com/stefanialicciardi-byte/paris-cycling-dashboard">
@@ -59,7 +59,7 @@ I am especially interested in analytics engineering, business intelligence, reta
 End-to-end analytics solution for exploring Paris real estate transactions, including ETL pipelines, analytical data models, public dataset integration, and a Streamlit app.
 
 **Tech:** SQL, Python, Snowflake, ETL, Streamlit  
-**Links:** [Live App](https://paris-real-estate-analytics.streamlit.app/) | [Repository](https://github.com/stefanialicciardi-byte/paris-real-estate-ae)
+**Links:** [Live App](https://paris-real-estate-analytics.streamlit.app/) | [Repository](https://github.com/stefanialicciardi-byte/paris-real-estate-analytics)
 
 ### Paris Cycling Traffic Analytics Dashboard
 
