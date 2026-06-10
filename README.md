@@ -1,14 +1,7 @@
 <img src="assets/banner.svg" alt="Stefania Licciardi - Analytics Engineer, Data Analyst and ETL Developer">
 
-<h1 align="center">Stefania Licciardi</h1>
-
 <p align="center">
-  <strong>Analytics Engineer | Data Analyst | ETL Developer</strong><br>
-  Berlin-based analytics professional with a business background in fashion e-commerce and retail.
-</p>
-
-<p align="center">
-  <img src="assets/github_profile.jpg" width="120" alt="Stefania Licciardi profile photo">
+  <strong>Analytics Engineer | Data Analyst | ETL Developer</strong>
 </p>
 
 <p align="center">
@@ -16,8 +9,6 @@
   <a href="https://github.com/stefanialicciardi-byte">GitHub</a> |
   <a href="https://paris-real-estate-analytics.streamlit.app/">Featured App</a>
 </p>
-
----
 
 ## About Me
 
