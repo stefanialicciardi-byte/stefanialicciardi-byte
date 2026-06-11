@@ -1,7 +1,7 @@
 <img src="assets/banner.svg" alt="Stefania Licciardi - Analytics Engineer, Data Analyst and ETL Developer">
 
 <p align="center">
-  <strong>Analytics Engineer | Data Analyst | ETL Developer</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=2500&color=2563EB&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B" />
 </p>
 
 <p align="center">
@@ -39,20 +39,20 @@ I am especially interested in analytics engineering, business intelligence, reta
 ## Featured Projects
 
 <a href="https://github.com/stefanialicciardi-byte/paris-real-estate-analytics">
-  <img src="assets/project_real_estate.svg" width="48%" alt="Paris Real Estate Analytics Platform">
+  <img src="assets/project_real_estate.svg" width="48%" alt="Real Estate Analytics Platform">
 </a>
 <a href="https://github.com/stefanialicciardi-byte/paris-cycling-dashboard">
-  <img src="assets/project_cycling.svg" width="48%" alt="Paris Cycling Traffic Analytics Dashboard">
+  <img src="assets/project_cycling.svg" width="48%" alt="Cycling Traffic Analytics Dashboard">
 </a>
 
-### Paris Real Estate Analytics Platform
+### Real Estate Analytics Platform 🏠
 
 End-to-end analytics solution for exploring Paris real estate transactions, including ETL pipelines, analytical data models, public dataset integration, and a Streamlit app.
 
 **Tech:** SQL, Python, Snowflake, ETL, Streamlit  
 **Links:** [Live App](https://paris-real-estate-analytics.streamlit.app/) | [Repository](https://github.com/stefanialicciardi-byte/paris-real-estate-analytics)
 
-### Paris Cycling Traffic Analytics Dashboard
+### Cycling Traffic Analytics Dashboard 🚲
 
 Dashboard for analyzing cycling traffic patterns in Paris by combining traffic, weather, calendar, and geospatial datasets.
 
@@ -72,10 +72,10 @@ Dashboard for analyzing cycling traffic patterns in Paris by combining traffic, 
 Liora | 2026
 
 **MSc Innovation, Knowledge and Entrepreneurial Dynamics**  
-Aalborg University Business School
+Aalborg University Business School | 2011 - 2013
 
 **BSc Business Administration**  
-Università degli Studi della Basilicata
+Università degli Studi della Basilicata | 2007 - 2010
 
 ## Professional Background
 
