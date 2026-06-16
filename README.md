@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Stefania Licciardi - Analytics Engineer, Data Analyst and ETL Developer">
+<img src="assets/banner.svg" alt="Stefania Licciardi - Analytics and Data Engineer, Data Analyst and ETL Developer">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=2500&color=2563EB&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B" />
