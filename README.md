@@ -79,10 +79,29 @@ Università degli Studi della Basilicata | 2007 - 2010
 
 ## Professional Background
 
-I bring 10+ years of fashion e-commerce and retail experience from BestSecret, brands4friends, and Zalando, combined with hands-on analytics engineering and BI training. This background helps me translate commercial challenges into data-driven decisions, with a strong understanding of assortment planning, supplier negotiations, KPI analysis, and stakeholder needs.
+I bring current freelance experience as a Data Analyst and Analytics Engineer at Essential Depilazione Laser, combined with 10+ years of fashion e-commerce and retail experience from BestSecret, brands4friends, and Zalando. This background helps me translate commercial and operational challenges into data-driven decisions, with a strong understanding of KPI analysis, stakeholder needs, reporting workflows, and scalable analytics solutions.
+
+### Data Analyst | Analytics Engineer
+
+**Essential Depilazione Laser | Freelance**  
+Jan 2026 - Present | Remote
+
+As a freelance Data Analyst and Analytics Engineer at Essential Depilazione Laser, I support data-driven decision-making for a network of laser hair removal clinics across Italy.
+
+- Develop SQL queries on PostgreSQL databases to analyze operational performance, customer behavior, and key business KPIs
+- Build and maintain Metabase dashboards and reports to monitor subscriptions, appointments, cancellations, revenue, and clinic performance
+- Design and maintain reusable dbt transformation models to create reliable, analysis-ready datasets
+- Automate recurring data extraction, validation, and reporting workflows using Python
+- Integrate data from PostgreSQL databases and REST APIs to support centralized reporting and analytics
+- Perform data validation and quality assurance to ensure accurate, consistent, and reliable business data
+- Collaborate with business stakeholders to translate reporting requirements into scalable analytical solutions and actionable insights
+- Analyze business performance and deliver KPI reporting to support operational and strategic decision-making
+
+**Technologies:** PostgreSQL, SQL, Python, Pandas, dbt, Metabase, REST APIs
 
 | Role | Company | Focus |
 | --- | --- | --- |
+| Data Analyst / Analytics Engineer | Essential Depilazione Laser | PostgreSQL analysis, Metabase dashboards, dbt models, Python automation, REST API integration, data validation, KPI reporting, and stakeholder reporting workflows |
 | Buyer | BestSecret Group | Multi-million-euro product portfolio management, sales trend analysis, revenue and margin KPIs, supplier negotiations, and assortment strategy |
 | Buyer | brands4friends | Multi-category buying, supplier sourcing and negotiations, commercial campaign planning, inventory analysis, KPI monitoring, and junior team mentoring |
 | Junior Buyer | Zalando | Brand portfolio management, marketplace and wholesale partnerships, in-season management, and trend analysis |
