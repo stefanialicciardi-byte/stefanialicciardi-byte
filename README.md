@@ -86,7 +86,7 @@ I bring current freelance experience as a Data Analyst and Analytics Engineer at
 
 | Role | Company | Focus |
 | --- | --- | --- |
-| Commercial Analytics Engineer | Data & Business Analyst | Essential Depilazione Laser | PostgreSQL analysis, Metabase dashboards, dbt models, Python automation, REST API integration, data validation, KPI reporting, and stakeholder reporting workflows |
+| Commercial Analytics Engineer, Data & Business Analyst | Essential Depilazione Laser | PostgreSQL analysis, Metabase dashboards, dbt models, Python automation, REST API integration, data validation, KPI reporting, and stakeholder reporting workflows |
 | Buyer | BestSecret Group | Multi-million-euro product portfolio management, sales trend analysis, revenue and margin KPIs, supplier negotiations, and assortment strategy |
 | Buyer | brands4friends | Multi-category buying, supplier sourcing and negotiations, commercial campaign planning, inventory analysis, KPI monitoring, and junior team mentoring |
 | Junior Buyer | Zalando | Brand portfolio management, marketplace and wholesale partnerships, in-season management, and trend analysis |
