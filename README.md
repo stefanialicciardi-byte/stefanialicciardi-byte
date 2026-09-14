@@ -33,6 +33,12 @@ A reusable Google Sheets decision-support framework for a multi-leg itinerary. I
   <img src="https://raw.githubusercontent.com/stefanialicciardi-byte/flight-tracker-dashboard/main/assets/dashboard-preview.svg" alt="Flight Tracker Dashboard preview" width="90%">
 </p>
 
+### 🧾 BestSecret · Buying & Commercial Analysis
+
+**Diagnosing Sell-Through Underperformance Across a Multi-Brand SKU Portfolio.** A confidential commercial case study using weekly revenue, margin and sell-through analysis across thousands of SKUs and supplier relationships.
+
+The analysis focused on separating pricing, inventory-depth and brand-fit issues early enough to inform reassortment and supplier negotiation decisions. The project is presented on my [portfolio](https://stefania.licciardi.net/#projects) without client-sensitive data.
+
 ### 🏠 Paris Real Estate Analytics
 
 An end-to-end analytics project combining public datasets, SQL/Python workflows, ETL and an interactive Streamlit app to explore property prices, reference rents, transaction liquidity and access to green spaces across Paris.
