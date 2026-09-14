@@ -1,6 +1,10 @@
 <img src="assets/banner.svg" alt="Stefania Licciardi — Commercial Analytics Engineer and Data & Business Analyst">
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=2500&color=2563EB&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B" alt="Hi there waving hand">
+</p>
+
+<p align="center">
   <strong>Commercial context. Clearer decisions.</strong><br>
   I turn commercial questions into trustworthy data products, useful analysis and practical action.
 </p>
