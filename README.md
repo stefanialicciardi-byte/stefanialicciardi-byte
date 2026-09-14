@@ -1,102 +1,75 @@
-<img src="assets/banner.svg" alt="Stefania Licciardi - Analytics and Data Engineer, Data Analyst and ETL Developer">
+<img src="assets/banner.svg" alt="Stefania Licciardi — Commercial Analytics Engineer and Data & Business Analyst">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=2500&color=2563EB&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B" />
+  <strong>Commercial context. Clearer decisions.</strong><br>
+  I turn commercial questions into trustworthy data products, useful analysis and practical action.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/stefanialicciardi">LinkedIn</a> |
-  <a href="https://github.com/stefanialicciardi-byte">GitHub</a> |
-  <a href="https://paris-real-estate-analytics-i.streamlit.app/">Featured App</a>
+  <a href="https://stefania.licciardi.net">🌐 Website</a> ·
+  <a href="https://www.linkedin.com/in/stefanialicciardi">LinkedIn</a> ·
+  <a href="mailto:stefania.licciardi@gmail.com">Email</a>
 </p>
 
-## About Me
+## A little about me
 
-I combine 10+ years of experience in e-commerce and retail with hands-on training in analytics engineering, ETL development, SQL, Python, Snowflake, dbt, and business intelligence.
+My move into analytics builds on 10+ years in e-commerce and retail. Working across assortment, pricing, margin, sell-through, inventory and commercial-term negotiation taught me to look for the decision behind the metric.
 
-My background in buying, merchandising, assortment planning, supplier negotiation, and KPI analysis helps me approach data work with a strong understanding of business context. I enjoy translating commercial questions into clean data models, practical dashboards, and actionable insights.
+Now I pair that judgement with SQL, data modelling, ETL, BI and Python: organising and sense-checking data, investigating changes, and communicating clear findings to technical and non-technical stakeholders.
 
-I am especially interested in analytics engineering, business intelligence, retail analytics, and data products that help teams make better decisions.
+I am especially interested in Commercial Analytics Engineer, Data Analyst, Business Analyst and BI Analyst roles where business context and technical delivery need to work together.
 
-## Core Skills
+## Selected work
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-175CD3?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Python-027A48?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Snowflake-2E90FA?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake">
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt">
-  <img src="https://img.shields.io/badge/Power%20BI-FDB022?style=for-the-badge&logo=powerbi&logoColor=101828" alt="Power BI">
-  <img src="https://img.shields.io/badge/Streamlit-F04438?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+### ✈️ Flight Tracker Dashboard
+
+A reusable Google Sheets decision-support framework for a multi-leg itinerary. It combines route-level price comparisons, a price history log, Apps Script and a flight-price API to turn “did the price drop yet?” into a clear `BOOK`, `MONITOR` or needs-attention signal.
+
+**Stack:** Google Sheets · Apps Script · flight-price API · KPI dashboard
+
+[Repository](https://github.com/stefanialicciardi-byte/flight-tracker-dashboard) · [Live dashboard](https://docs.google.com/spreadsheets/d/1OfpTWUFHfi1p1BYQHwuMXKHQgYB0NwSd7pQvhrfkysQ/edit) · [Case study](https://stefania.licciardi.net/airfare-tracker-case-study.html)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stefanialicciardi-byte/flight-tracker-dashboard/main/assets/dashboard-preview.svg" alt="Flight Tracker Dashboard preview" width="90%">
 </p>
 
-| Area | Tools & Skills |
+### 🏠 Paris Real Estate Analytics
+
+An end-to-end analytics project combining public datasets, SQL/Python workflows, ETL and an interactive Streamlit app to explore property prices, reference rents, transaction liquidity and access to green spaces across Paris.
+
+**Stack:** SQL · Python · Snowflake · ETL · Streamlit
+
+[Live app](https://paris-real-estate-analytics-i.streamlit.app/) · [Repository](https://github.com/stefanialicciardi-byte/paris-real-estate-analytics)
+
+### 🚲 Paris Cycling Dashboard
+
+An interactive dashboard analysing cycling demand through traffic, weather, school-holiday and geospatial context. The project shows how a large public dataset can become a clear monitoring and planning tool.
+
+**Stack:** SQL · Python · Power BI · Streamlit · geospatial analysis
+
+[Live app](https://paris-cycling-dashboard-sw82zmv87tc5sxqluddjrj.streamlit.app/) · [Repository](https://github.com/stefanialicciardi-byte/paris-cycling-dashboard)
+
+### 🔒 Essential · Commercial & Subscription Analytics
+
+Confidential client work featured on my [portfolio](https://stefania.licciardi.net): multiple dynamic Metabase dashboards, SQL/dbt models, KPI definitions and reporting workflows supporting commercial performance across a multi-location subscription business.
+
+## What I bring
+
+| Area | Focus |
 | --- | --- |
-| Data & Analytics | SQL, Python, Snowflake, dbt, ETL, data modeling, data warehousing |
-| BI & Visualization | Power BI, Streamlit, dashboarding, data visualization, KPI reporting |
-| Data Workflows | Data cleaning, API integration, transformation logic, geospatial analysis |
-| Business Domain | E-commerce, retail analytics, buying, merchandising, assortment planning |
+| Analytics engineering | SQL, dbt, PostgreSQL, Snowflake, ETL, APIs, data modelling, data quality |
+| Analysis & BI | Python, Metabase, Power BI, Streamlit, dashboards, KPI design |
+| Commercial analytics | Funnel performance, acquisition, retention, churn, subscriptions, campaign performance |
+| Business context | E-commerce, retail, buying, merchandising, assortment and stakeholder communication |
 
-## Featured Projects
+## Background
 
-<a href="https://github.com/stefanialicciardi-byte/paris-real-estate-analytics">
-  <img src="assets/project_real_estate.svg" width="48%" alt="Real Estate Analytics Platform">
-</a>
-<a href="https://github.com/stefanialicciardi-byte/paris-cycling-dashboard">
-  <img src="assets/project_cycling.svg" width="48%" alt="Cycling Traffic Analytics Dashboard">
-</a>
+Before moving into analytics, I worked in buying and commercial roles at BestSecret Group, brands4friends and Zalando. That experience helps me understand the business question behind the request, the trade-offs behind the KPI and the audience that needs to act on the result.
 
-### Real Estate Analytics Platform 🏠
+## Let's connect
 
-End-to-end analytics solution for exploring Paris real estate transactions, including ETL pipelines, analytical data models, public dataset integration, and a Streamlit app.
+I am open to opportunities where commercial judgement, analytical thinking and reliable data foundations belong in the same conversation.
 
-**Tech:** SQL, Python, Snowflake, ETL, Streamlit  
-**Links:** [Live App](https://paris-real-estate-analytics-i.streamlit.app/) | [Repository](https://github.com/stefanialicciardi-byte/paris-real-estate-analytics)
-
-### Cycling Traffic Analytics Dashboard 🚲
-
-Dashboard for analyzing cycling traffic patterns in Paris by combining traffic, weather, calendar, and geospatial datasets.
-
-**Tech:** SQL, Python, Power BI, Streamlit  
-**Links:** [Live App](https://paris-cycling-dashboard-sw82zmv87tc5sxqluddjrj.streamlit.app/) | [Repository](https://github.com/stefanialicciardi-byte/paris-cycling-dashboard)
-
-## Current Focus
-
-- Building analytics engineering projects with SQL, Python, Snowflake, and dbt
-- Designing clear dashboards and reporting workflows for business users
-- Strengthening my portfolio with real-world data products
-- Applying my e-commerce and retail background to data and BI roles
-
-## Education & Training
-
-**Analytics Engineering, ETL & Data Analysis**  
-Liora | 2026
-
-**MSc Innovation, Knowledge and Entrepreneurial Dynamics**  
-Aalborg University Business School | 2011 - 2013
-
-**BSc Business Administration**  
-Università degli Studi della Basilicata | 2007 - 2010
-
-## Professional Background
-
-I bring current freelance experience as a Data Analyst and Analytics Engineer at Essential Depilazione Laser, combined with 10+ years of fashion e-commerce and retail experience from BestSecret and Zalando. This background helps me translate commercial and operational challenges into data-driven decisions, with a strong understanding of KPI analysis, stakeholder needs, reporting workflows, and scalable analytics solutions.
-
-
-**Technologies:** PostgreSQL, SQL, Python, Pandas, dbt, Metabase, REST APIs
-
-| Role | Company | Focus |
-| --- | --- | --- |
-| Commercial Analytics Engineer, Data & Business Analyst | Essential Depilazione Laser | PostgreSQL analysis, Metabase dashboards, dbt models, Python automation, REST API integration, data validation, KPI reporting, and stakeholder reporting workflows |
-| Buyer | BestSecret Group | Multi-million-euro product portfolio management, sales trend analysis, revenue and margin KPIs, supplier negotiations, and assortment strategy |
-| Buyer | brands4friends | Multi-category buying, supplier sourcing and negotiations, commercial campaign planning, inventory analysis, KPI monitoring, and junior team mentoring |
-| Junior Buyer | Zalando | Brand portfolio management, marketplace and wholesale partnerships, in-season management, and trend analysis |
-| Merchandise Planning Assistant | Zalando | Stock monitoring, delivery tracking, reorders, weekly trade analysis, and operational issue resolution |
-
-This commercial background helps me bridge the gap between business teams and technical data work: I understand both the questions stakeholders ask and the data structures needed to answer them well.
-
-## Let's Connect
-
-I am open to opportunities in analytics engineering, data analysis, ETL development, and business intelligence.
-
-- LinkedIn: [linkedin.com/in/stefanialicciardi](https://www.linkedin.com/in/stefanialicciardi)
-- GitHub: [github.com/stefanialicciardi-byte](https://github.com/stefanialicciardi-byte)
+🌐 [stefania.licciardi.net](https://stefania.licciardi.net)  
+💼 [linkedin.com/in/stefanialicciardi](https://www.linkedin.com/in/stefanialicciardi)  
+✉️ [stefania.licciardi@gmail.com](mailto:stefania.licciardi@gmail.com)
